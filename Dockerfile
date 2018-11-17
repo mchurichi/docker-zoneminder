@@ -1,6 +1,6 @@
-FROM phusion/baseimage:0.9.16
+FROM resin/raspbian:latest
 
-MAINTAINER aptalca
+MAINTAINER mchurichi
 
 VOLUME ["/config"]
 
