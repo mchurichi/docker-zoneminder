@@ -1,4 +1,4 @@
-FROM resin/raspbian:latest
+FROM resin/rpi-raspbian:latest
 
 MAINTAINER mchurichi
 
